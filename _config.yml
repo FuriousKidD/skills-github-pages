@@ -2,3 +2,4 @@ theme: minima
 title: Learn GitHub Pages
 author: Taku Manhema
 description: This page is a test page since I am learning GitHub Pages
+markdown: kramdown
