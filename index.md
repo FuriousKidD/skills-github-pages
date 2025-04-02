@@ -5,12 +5,12 @@ title: Welcome to my first blog
 This is my first blog and I am learning via GitHub Tutorials
 ## DBZ Character ranking
 
-| Rank | Name   | Power
-|------|--------|------------------------
-| 1.   | Broly  | Legendary Super Saiyan
-| 2.   | Goku   | Ultra Instinct
-| 3.   | Vegeta | Ultra Ego
-| 4.   | Gohan  | Beast
+| Rank | Name   | Power                    |
+|------|--------|------------------------  |
+| 1.   | Broly  | Legendary Super Saiyan   |
+| 2.   | Goku   | Ultra Instinct           |
+| 3.   | Vegeta | Ultra Ego                |
+| 4.   | Gohan  | Beast                    |
 ## Broly
 ![Broly](https://github.com/user-attachments/assets/be456419-2a32-416b-8099-f090920f7bda)
 ## Goku
